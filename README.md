@@ -6,7 +6,7 @@ Python BioImage Analysis Tutorial [HACKDAY REPO]
 *updated and converted to python 3 in 2018*        
 *by Jonas Hartmann (Gilmour group, EMBL Heidelberg)*     
 *and collaboratively modernized & extended in 2021*    
-*by the UCL Festival of Code Hackday community*
+*by the UCL Festival of Code Hackday community* _**[Work in Progress!]**_
 
 
 ## Aims and Overview
